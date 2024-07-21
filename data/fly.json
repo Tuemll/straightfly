@@ -42,6 +42,12 @@
             "link": "https://www.youtube.com/watch?v=-Zwvg80lTzE&ab_channel=Saulgoodmello",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "xaura",
+            "link": "https://youtu.be/IHugrbt_0OI",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
