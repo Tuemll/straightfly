@@ -1,17 +1,13 @@
 {
-    "id": 97114987,
-    "name": "2p corridor is easy",
-    "author": "gizmo150",
+    "id": 104377258,
+    "name": "requence bronze",
+    "author": "spookkd",
     "creators": [],
-    "verifier": "Xebs",
-    "verification": "https://www.youtube.com/watch?v=1elfDMbbtyw",
+    "verifier": "spookkd",
+    "verification": "https://youtu.be/xPy3VzIFBr4",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "limitationn",
-            "link": "https://youtu.be/TwOHfWdn8Is?si=sVclmlHNT4ra3VcT",
-            "percent": 100,
-            "hz": "360"
         }
     ]
 }
