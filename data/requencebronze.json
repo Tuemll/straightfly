@@ -6,5 +6,12 @@
     "verifier": "spookkd",
     "verification": "https://youtu.be/xPy3VzIFBr4",
     "percentToQualify": 100,
-    "records": []
+    "records": [        
+        {
+            "user": "limitationn",
+            "link": "https://youtu.be/oGc3xiuNc4A?si=AUnQuZ19pHnBdx3X",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
