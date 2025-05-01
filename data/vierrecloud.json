@@ -7,11 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=QUA6Fe2QLnk",
     "percentToQualify": 100,
     "records": [
-    
-
-
-
-
-        
+  {
+            "user": "FogMello",
+            "link": "https://youtu.be/HxePXXfP4vY",
+            "percent": 100,
+            "hz": "360"
+        }
     ]
 }
