@@ -7,12 +7,17 @@
     "verification": "https://youtu.be/ZSxQ8FAH6UA",
     "percentToQualify": 100,
     "records": [
-     {
+        {
             "user": "limitationn",
             "link": "https://www.youtube.com/watch?v=FAw2n4AcWEI",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "aviancataclysm",
+            "link": "https://youtu.be/Xt7N-O_utSw",
+            "percent": 100,
+            "hz": "240"
         }
-        
     ]
 }
