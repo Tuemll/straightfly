@@ -45,7 +45,7 @@
         },
         {
             "user": "Xebs",
-            "link": "https://www.youtube.com/watch?v=Jyn0--Bcjj0&list=PL8B98L3FeKXkmX4wlPRQVbLlkTWdOL25m&index=10&pp=iAQB",
+            "link": "https://www.youtube.com/watch?v=Jyn0--Bcjj0",
             "percent": 100,
             "hz": "360"
         },
@@ -58,6 +58,12 @@
         {
             "user": "FogMello",
             "link": "https://youtu.be/fZWBhLJ7sVU",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "fyro",
+            "link": "https://youtu.be/rMQZnoieSsE",
             "percent": 100,
             "hz": "360"
         }
