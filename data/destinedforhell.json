@@ -1,1 +1,23 @@
-
+{
+    "id": 125492010,
+    "name": "Destined For Hell",
+    "author": "zFloss",
+    "creators": [],
+    "verifier": "Phroggo",
+    "verification": "https://www.youtube.com/watch?v=1elfDMbbtyw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "limitationn",
+            "link": "https://youtu.be/TwOHfWdn8Is?si=sVclmlHNT4ra3VcT",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "bruno345",
+            "link": "https://youtu.be/ZWdD9rxKyZs",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
