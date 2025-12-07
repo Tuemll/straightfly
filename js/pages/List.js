@@ -124,7 +124,7 @@ export default {
                         - Once a level falls into Pinewood, we no longer accept records
                     </p>
                     <p>
-                        - 2 player challenges cannot be completed with one hand, so no rebinding to adjacent keys
+                        - The full list of rules for creating levels is in the discord in the basic info channel, make sure to check your level follows the rules before submitting it
                     </p>
                      <p>
                     </p>
