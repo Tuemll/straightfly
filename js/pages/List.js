@@ -109,7 +109,7 @@ export default {
                         - Have either source audio or clicks/taps in the video. Edited audio only does not count. 2 player levels require a handcam
                     </p>
                     <p>
-                        - The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
+                        - The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt
                     </p>
                     <p>
                         - The recording must also show the player hit the endwall, or the completion will be invalidated
@@ -124,7 +124,7 @@ export default {
                         - Once a level falls into Pinewood, we no longer accept records
                     </p>
                     <p>
-                        - The full list of rules for creating levels is in the discord in the basic info channel, make sure to check your level follows the rules before submitting it
+                        - The full list of rules for creating levels is in the discord's basic info channel, be sure to check that your level follows the rules before submitting it
                     </p>
                      <p>
                     </p>
