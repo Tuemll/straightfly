@@ -97,7 +97,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        - Achieved the record on the most recent version of the game
+                        - Achieved the record on the most recent version of the game (2.1 is allowed, some levels are 2.2 or 2.1 only though)
                     </p>
                     <p>
                         - Achieved the record without using hacks (any FPS up to 360 is fine, CBF is banned for now)
