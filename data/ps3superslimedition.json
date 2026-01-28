@@ -54,7 +54,14 @@
             "link": "https://www.youtube.com/watch?v=fg1PSipEVYs",
             "percent": 100,
             "hz": "240"
+        },
+        {
+            "user": "Glow",
+            "link": "https://www.youtube.com/watch?v=4BZB69JtDyg",
+            "percent": 100,
+            "hz": "300"
         }
+
         
     ]
 }
