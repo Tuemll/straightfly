@@ -48,6 +48,12 @@
             "link": "https://www.youtube.com/watch?v=0Hnh0Jnm_KE",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "cerulean",
+            "link": "https://youtu.be/ba0Ny96_OiU",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
