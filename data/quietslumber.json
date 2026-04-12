@@ -7,7 +7,12 @@
     "verification": "www.youtube.com/watch?v=nJzbqE6jeDI",
     "percentToQualify": 100,
     "records": [
-    
+    {
+        "user": "JamTSAA",
+        "link": "https://www.youtube.com/watch?v=klAcIBzdA9o",
+        "percent": 100,
+        "hz": "CBF"
+    }
           
     ]
 
