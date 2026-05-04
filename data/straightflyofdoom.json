@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/2KU9pyGeZAA",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://youtu.be/ODX07shc9-0",
+            "percent": 100,
+            "hz": "240"
+        }
     
     ]
 }
