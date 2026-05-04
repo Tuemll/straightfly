@@ -24,6 +24,12 @@
             "link": "https://youtu.be/zRXYASVgCn8",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "INITIAL",
+            "link": "https://www.youtube.com/watch?v=-wv-kHdCO8Y",
+            "percent": 100,
+            "hz": "CBS"
         }
     ]
 }
