@@ -192,6 +192,12 @@
             "link": "https://youtu.be/XPJ0M1vBrcM",
             "percent": 100,
             "hz": "CBF"
+        },
+        {
+            "user": "VectorC",
+            "link": "https://www.youtube.com/watch?v=eccq3JTVEYg",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
