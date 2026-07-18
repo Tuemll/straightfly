@@ -24,6 +24,12 @@
             "link": "https://www.youtube.com/watch?v=ANunHQNg2Ic&ab_channel=FogMello",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Dummy",
+            "link": "https://youtu.be/PBBZRiQ3qf0",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
