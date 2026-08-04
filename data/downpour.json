@@ -6,5 +6,12 @@
     "verifier": "Burd",
     "verification": "https://youtu.be/lj4X1_npw3A",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "VectorC",
+            "link": "https://www.youtube.com/watch?v=2OqqY6YqRGY",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
