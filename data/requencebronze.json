@@ -4,45 +4,8 @@
     "author": "spookkd",
     "creators": [],
     "verifier": "spookkd",
-    "verification": "https://youtu.be/xPy3VzIFBr4",
+    "verification": "https://youtu.be/D6_jYQq27kc",
     "percentToQualify": 100,
     "records": [        
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/oGc3xiuNc4A?si=AUnQuZ19pHnBdx3X",
-            "percent": 100,
-            "hz": "360"
-        },
-        {
-            "user": "FogMello",
-            "link": "https://youtu.be/PH6fvAwKIA8",
-            "percent": 100,
-            "hz": "360"
-        },
-        {
-            "user": "INITIAL",
-            "link": "https://www.youtube.com/watch?v=2dzROOuXvCo",
-            "percent": 100,
-            "hz": "240"
-        },
-        {
-            "user": "nicksoup",
-            "link": "https://youtu.be/1TwTHuFPlQY",
-            "percent": 100,
-            "hz": "240"
-        },
-        {
-            "user": "Rive",
-            "link": "https://youtu.be/aRP0VAfGar8",
-            "percent": 100,
-            "hz": "240"
-        },
-        {
-            "user": "SkyReox",
-            "link": "https://www.youtube.com/watch?v=ACuci0598GA",
-            "percent": 100,
-            "hz": "240"
-        }
-
     ]
 }
