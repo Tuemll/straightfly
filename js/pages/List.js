@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Version</div>
-                            <p v-if="level.id > 97200000">{{ 2.2 }}</p>
+                            <p v-if="level.id > 97200000 && level.id != 132706633">{{ 2.2 }}</p>
                             <p v-else>{{ level.version }}</p>
                         </li>
                     </ul>
