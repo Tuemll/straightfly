@@ -174,6 +174,12 @@
             "link": "https://www.youtube.com/watch?v=XsReDCEC-v8",
             "percent": 100,
             "hz": "CBS"
+        },
+        {
+            "user": "SaffyEpic",
+            "link": "https://youtu.be/o2Ysv7vRvlo",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
