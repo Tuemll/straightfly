@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/D6_jYQq27kc",
     "percentToQualify": 100,
     "records": [        
+        {
+            "user": "Atlas Dude",
+            "link": "https://www.youtube.com/watch?v=iJu8ICOxU2E",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
