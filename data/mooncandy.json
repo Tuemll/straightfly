@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "version": "2.2, no CBS / CBF",
     "records": [
+        {
+            "user": "SaffyEpic",
+            "link": "https://youtu.be/-_F1ZmlAar8?si=hrGypAf2eQv_meh5",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
