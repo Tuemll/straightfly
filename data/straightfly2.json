@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=R6sOIer-A18",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Infer",
+            "link": "https://www.youtube.com/watch?v=rOROMmVfIdQ",
+            "percent": 100,
+            "hz": "240"
         }
       
     ]
