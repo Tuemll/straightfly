@@ -7,6 +7,11 @@
     "verification": "https://youtu.be/1D-FvdC5xBc",
     "percentToQualify": 100,
     "records": [
-
+            {
+                "user": "Xebs",
+                "link": "https://youtu.be/WDJIHhX35hk",
+                "percent": 100,
+                "hz": "CBS"
+            }
     ]
 }
